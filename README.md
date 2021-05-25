@@ -12,7 +12,7 @@
 
 ## EXPERIMENTS
 
-Here we use the GMF as the basic model.
+Here we use the GMF as the CF basic model.
 
 How to train Beibei : python search.py 0 [GPU_ID]
 
